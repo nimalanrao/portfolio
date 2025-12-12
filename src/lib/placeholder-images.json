@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "product-photography",
+      "description": "Short description of your sample: clean lighting, brand-focused shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwcGhvdG9ncmFwaHl8ZW58MHx8fHwxNzY1NDMwNTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product photography"
+    },
+    {
+      "id": "food-photography",
+      "description": "Short description: emphasising colour + appetite appeal.",
+      "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwcGhvdG9ncmFwaHl8ZW58MHx8fHwxNzY1MzMxODczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food photography"
+    },
+    {
+      "id": "fashion-photography",
+      "description": "Short description: aesthetic composition, fits brand identity.",
+      "imageUrl": "https://images.unsplash.com/photo-1617019114583-affb34d1b3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXNoaW9uJTIwY2xvdGhpbmd8ZW58MHx8fHwxNzY1Mzc0NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion clothing"
+    }
+  ]
+}
