@@ -22,24 +22,6 @@ Built to showcase work without noise.
 Purple was chosen to balance **creativity + professionalism**.
 The goal: modern, confident, and readable — not flashy.
 
-## 📂 Sections
-
-* Hero / Intro
-* About
-* Skills
-* Projects
-* Contact
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-open index.html
-```
-
-Or run with any static server.
-
 ## 🖼️ Preview
 
 <img width="1733" height="961" alt="image" src="https://github.com/user-attachments/assets/d1cf88dd-1145-4bac-80aa-ff97fe4858b1" />
